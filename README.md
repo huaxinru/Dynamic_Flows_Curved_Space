@@ -1,1 +1,1 @@
-# Dynamic_Flows_Curved_Space
+## Official repo for paper "Dynamic Flows on Curved Space", accepted to IJCAI 2023.
